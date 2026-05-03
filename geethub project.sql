@@ -1,4 +1,3 @@
-create table st
 	CREATE TABLE retail_sales
 (
     transactions_id INT PRIMARY KEY,
