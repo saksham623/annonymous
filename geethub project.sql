@@ -1,4 +1,6 @@
-	CREATE TABLE retail_sales
+--i have created a table retail_sale and add solve some queries 
+	
+CREATE TABLE retail_sales
 (
     transactions_id INT PRIMARY KEY,
     sale_date DATE,	
