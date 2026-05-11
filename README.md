@@ -1,1 +1,3 @@
-HI its saksham and am currently working on some sql databases and creating power bi dashboard in other hand
+hello ITS SAKSHAM
+Currently focus on SQl DATABASES
+AND POWER BI DASHBOARD
